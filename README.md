@@ -1,36 +1,101 @@
-11111111111111111111111
-You can use the [editor on GitHub](https://github.com/touziqin/touziqin1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/touziqin/touziqin1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+百壶非饯意，
+独立谁见用。
+何当同傅说，
+今朝望乡客。
+片片吹落春风香，
+前舟已眇眇。
+万状分明光似洗，
+溪路春云重。
+一鼓游上京，
+重溪幂幂暗云树。
+本自出山原，
+窅冥仙会兮枕烟庭。
+候客定为黍，
+经邹鲁祭孔子而叹之。
+黎民困逆节，
+轻苔网危石。
+食我山中药，
+献凯多惭霍。
+已想平门路，
+壮士激青衿。
+宾客散池台，
+飞锡离乡久。
+华屋重翠幄，
+举头惟见月。
+两株惨裂苔藓皮，
+秋尽初移幕。
+使君家酝旧来浓，
+萧萧吹白杨。
+隐隐带秋天，
+邹鲁诗书国。
+不遂苍生望，
+风雷肯为神。
+还是苦辛行，
+开镜觅春晖。
+零落在瞬息，
+权豪屏迹肃严霜。
+试听沙边有雁声，
+新景林际曙。
+永永福流，
+兀坐独参禅。
+苍翠千山出，
+伏槛纡三顾。
+挥手缅含情，
+空将旧泉石。
+龙沙多道里，
+人似上皇时。
+衰老不复如今乐，
+行路难如此。
+犹欲伴鹓鸿，
+茗饮暂调气。
+长歌谢金阙，
+感君恩重许君命。
+高随海上查，
+愧无海峤作。
+履机乘变安可当，
+戎旆霜旋重。
+谁劝著新衣，
+虚室坐间同。
+与君落花院，
+洎乎吾生何飘零。
+朝夕有阶烟，
+此意在观国。
+歌船五彩楼，
+鸡鸣出东邑。
+满眼空中别有花，
+三年犹疟疾。
+四顾不出门，
+惟愁面会赊。
+寓宿湍与濑，
+槌钟速严妆。
+痴儿未知父子礼，
+此地两三家。
+共听无漏法，
+混于薪棘。
+明晨挂帆席，
+山深俗事稀。
+随君郢路行，
+微贱幸升平。
+月华虚北堂，
+颍凤不来天地塞。
+安得今朝会碧虚，
+大明夷朝晖。
+故著浮槎替入舟，
+寂寞复何为。
+暮升艮岑顶，
+身老时危思会面。
+桃今与楼齐，
+魏侯校理复何如。
+艳日浓妆影，
+云旗绕彭城。
+柏寝寒芜变，
+道亦资天均。
+归旆拥通庄，
+将副节制筹。
+逆行波浪悭，
+骑马行春径。
+田园言怀，
+呜呼江夏姿。
+燕燕于巢，
+曾有凶王。
+偏门
